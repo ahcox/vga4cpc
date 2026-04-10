@@ -26,7 +26,7 @@ Parts:<br />
 |R5,R12|1 kOhm resistors|2|[https://www.digikey.com/en/products/detail/yageo/MFR-25FRF52-1K/14891]|
 |R6-R11|220 Ohm resistors|6||[https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC220R/2617314]|
 |R13|68 Ohm resistor|1|[https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC68R0/2617372]|
-|R15|22 Ohm resistor|1|[https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-15R/9139795]|
+|R15|22 Ohm resistor|1|[https://www.digikey.com/en/products/detail/yageo/MFR-25FTE52-22R/9139963]|
 |R16-R18|75 Ohm resistors|3|[https://www.digikey.com/en/products/detail/yageo/MFR-25FBF52-75R/12771]|
 |SW1|50/60 FPS switch|1|[https://www.digikey.com/en/products/detail/c-k/OS102011MA1QS1/1981431]|
 |SW2|Reset button|1|[https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1-1825027-1/1632544]|
